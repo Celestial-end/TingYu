@@ -1,0 +1,14 @@
+Flask==3.0.0
+Werkzeug==3.0.1
+python-dotenv==1.0.0
+pytest==7.4.0
+pytest-flask==1.2.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+test:
+    Flask-SQLAlchemy-3.1.1 
+    SQLAlchemy-2.0.41 
+    greenlet-3.2.3 
+    pytest-flask-sqlalchemy-1.1.0 
+    pytest-mock-3.14.1
